@@ -1,6 +1,6 @@
 # charts-d3
 
-clone the project
+Clone the project
 
 Run "node server.js"
 
